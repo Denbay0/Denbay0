@@ -24,7 +24,7 @@
 
 :woman_technologist: About Me :
 
-- I am a Backend Developer from Russia.
+- I am a Backend and system Developer from Russia.
 
 - I love going to hackatons
 
