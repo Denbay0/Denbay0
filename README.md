@@ -3,6 +3,6 @@
 </div>
 
 <div id="badges">
-  <a href="(https://t.me/Denbay0)">
+  <a href="https://t.me/Denbay0">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
 </div>
