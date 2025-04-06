@@ -11,11 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=Denbay0&style=flat-square&color=blue" alt=""/>
 </div>
     
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif?cid=ecf05e47j23qwbetn1y99lszuwmmesktmrd1y0eyt9gg2bn5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
