@@ -21,3 +21,4 @@
 </div>
 :woman_technologist: About Me :
 
+I am a Backend Developer from Russia.
