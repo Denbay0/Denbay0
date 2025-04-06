@@ -6,3 +6,6 @@
   <a href="https://t.me/Denbay0">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denbay0&style=flat-square&color=blue" alt=""/>
+</div>
