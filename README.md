@@ -26,3 +26,7 @@
 - I love going to hackatons
 
 - and I also work in industrial automation
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
