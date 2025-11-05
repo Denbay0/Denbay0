@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-  <img src="./lain.gif" width="440" alt="Lain Iwakura"/>
+  <img src="./lain_440w.gif" width="440" alt="Lain Iwakura"/>
 </div>
 
 ---
